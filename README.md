@@ -1,2 +1,2 @@
 # AndroidSample_ViewBinding
-sample app 👌 fingerprint 
+sample app fingerprint.
